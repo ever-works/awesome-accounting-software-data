@@ -1,0 +1,12 @@
+name: "Wave"
+description: "Wave offers free cloud accounting and invoicing for small businesses, with paid add-ons for payroll and payments."
+source_url: "https://www.waveapps.com/"
+category: "SMB Accounting"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "smb"
+icon_url: "https://icons.duckduckgo.com/ip3/www.waveapps.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.waveapps.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"

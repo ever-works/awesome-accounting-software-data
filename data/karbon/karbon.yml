@@ -1,0 +1,11 @@
+name: "Karbon"
+description: "Karbon is accounting practice management software for firms, combining workflow, client collaboration, and email integration."
+source_url: "https://www.karbonhq.com/"
+category: "Accounting Practice Management"
+tags:
+  - "paid"
+  - "practice-management"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.karbonhq.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.karbonhq.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"

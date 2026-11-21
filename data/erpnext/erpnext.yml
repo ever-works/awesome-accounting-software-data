@@ -1,0 +1,12 @@
+name: "ERPNext"
+description: "ERPNext is an open-source ERP platform with accounting, inventory, and CRM modules, available for self-hosting or cloud subscription."
+source_url: "https://erpnext.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "erp"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/erpnext.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://erpnext.com/>\n- Repository: <https://github.com/frappe/erpnext>\n\nLicense: GPLv3.\n"
+updated_at: "2026-11-21 17:56"

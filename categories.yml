@@ -1,0 +1,12 @@
+- id: smb-accounting
+  name: "SMB Accounting"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: bookkeeping-services
+  name: "Bookkeeping Services"
+- id: plain-text-accounting
+  name: "Plain-Text Accounting"
+- id: accounting-practice-management
+  name: "Accounting Practice Management"
+- id: regional-and-tax-specific
+  name: "Regional & Tax-Specific"

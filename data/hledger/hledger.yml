@@ -1,0 +1,11 @@
+name: "hledger"
+description: "hledger is a plain-text accounting tool and Haskell ledger clone for tracking finances via text files and command-line or web interfaces."
+source_url: "https://hledger.org/"
+category: "Plain-Text Accounting"
+tags:
+  - "open-source"
+  - "plain-text"
+  - "cli"
+icon_url: "https://icons.duckduckgo.com/ip3/hledger.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://hledger.org/>\n- Repository: <https://github.com/simonmichael/hledger>\n\nLicense: GPLv3.\n"
+updated_at: "2026-11-21 17:56"

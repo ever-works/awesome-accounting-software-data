@@ -1,0 +1,12 @@
+name: "TallyPrime"
+description: "TallyPrime is business management and accounting software widely used in India, supporting GST compliance and inventory management."
+source_url: "https://tallysolutions.com/"
+category: "Regional & Tax-Specific"
+tags:
+  - "paid"
+  - "india"
+  - "gst"
+  - "erp"
+icon_url: "https://icons.duckduckgo.com/ip3/tallysolutions.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://tallysolutions.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"

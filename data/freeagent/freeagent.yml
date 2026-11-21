@@ -1,0 +1,12 @@
+name: "FreeAgent"
+description: "FreeAgent is cloud accounting software tailored for UK freelancers, contractors, and small businesses, with tax and Self Assessment support."
+source_url: "https://www.freeagent.com/"
+category: "Regional & Tax-Specific"
+tags:
+  - "paid"
+  - "api"
+  - "uk"
+  - "tax"
+icon_url: "https://icons.duckduckgo.com/ip3/www.freeagent.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.freeagent.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"

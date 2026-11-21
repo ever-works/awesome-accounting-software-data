@@ -1,0 +1,11 @@
+name: "Xero"
+description: "Xero provides cloud-based accounting for small businesses, including bank reconciliation, invoicing, and payroll integrations."
+source_url: "https://www.xero.com/"
+category: "SMB Accounting"
+tags:
+  - "paid"
+  - "api"
+  - "smb"
+icon_url: "https://icons.duckduckgo.com/ip3/www.xero.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.xero.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"

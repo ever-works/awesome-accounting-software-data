@@ -1,0 +1,11 @@
+name: "Bigcapital"
+description: "Bigcapital is open-source accounting software for small businesses, offering invoicing, expense tracking, and financial reporting with self-hosting options."
+source_url: "https://bigcapital.co/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/bigcapital.co.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://bigcapital.co/>\n- Repository: <https://github.com/bigcapital/bigcapital>\n\nLicense: AGPLv3.\n"
+updated_at: "2026-11-21 17:56"

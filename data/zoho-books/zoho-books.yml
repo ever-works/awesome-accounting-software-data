@@ -1,0 +1,11 @@
+name: "Zoho Books"
+description: "Zoho Books is online accounting software for small businesses, part of the Zoho suite, with automation and inventory features."
+source_url: "https://www.zoho.com/books"
+category: "SMB Accounting"
+tags:
+  - "freemium"
+  - "api"
+  - "smb"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zoho.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.zoho.com/books>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"

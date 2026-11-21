@@ -1,0 +1,48 @@
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: smb
+  name: "SMB"
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: enterprise
+  name: "Enterprise"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: erp
+  name: "ERP"
+- id: desktop
+  name: "Desktop"
+- id: plain-text
+  name: "Plain-Text"
+- id: cli
+  name: "CLI"
+- id: cloud
+  name: "Cloud"
+- id: uk
+  name: "UK"
+- id: tax
+  name: "Tax"
+- id: india
+  name: "India"
+- id: gst
+  name: "GST"
+- id: australia
+  name: "Australia"
+- id: new-zealand
+  name: "New Zealand"
+- id: bookkeeping
+  name: "Bookkeeping"
+- id: service
+  name: "Service"
+- id: practice-management
+  name: "Practice Management"
+- id: python
+  name: "Python"

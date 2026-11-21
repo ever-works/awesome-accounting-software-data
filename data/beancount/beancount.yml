@@ -1,0 +1,11 @@
+name: "Beancount"
+description: "Beancount is a double-entry bookkeeping system that uses plain-text files and a Python-based parser for financial records."
+source_url: "https://beancount.github.io/"
+category: "Plain-Text Accounting"
+tags:
+  - "open-source"
+  - "plain-text"
+  - "python"
+icon_url: "https://icons.duckduckgo.com/ip3/beancount.github.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://beancount.github.io/>\n- Repository: <https://github.com/beancount/beancount>\n\nLicense: BSD.\n"
+updated_at: "2026-11-21 17:56"

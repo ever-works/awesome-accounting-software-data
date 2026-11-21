@@ -1,0 +1,13 @@
+name: "Odoo Accounting"
+description: "Odoo Accounting is a module within the Odoo ERP platform, available as open-source community edition and a paid cloud enterprise version."
+source_url: "https://www.odoo.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "paid"
+  - "erp"
+icon_url: "https://icons.duckduckgo.com/ip3/www.odoo.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.odoo.com/>\n- Repository: <https://github.com/odoo/odoo>\n\nLicense: LGPLv3.\n"
+updated_at: "2026-11-21 17:56"

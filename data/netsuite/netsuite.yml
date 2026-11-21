@@ -1,0 +1,11 @@
+name: "NetSuite"
+description: "Oracle NetSuite is a cloud ERP suite with financial management, accounting, and e-commerce capabilities for growing and enterprise businesses."
+source_url: "https://www.oracle.com/netsuite"
+category: "SMB Accounting"
+tags:
+  - "enterprise"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.oracle.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.oracle.com/netsuite>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"

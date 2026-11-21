@@ -1,0 +1,11 @@
+name: "Dolibarr"
+description: "Dolibarr is open-source ERP and accounting software for small businesses, foundations, and freelancers, with modular features."
+source_url: "https://www.dolibarr.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "erp"
+icon_url: "https://icons.duckduckgo.com/ip3/www.dolibarr.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.dolibarr.org/>\n- Repository: <https://github.com/Dolibarr/dolibarr>\n\nLicense: GPLv3.\n"
+updated_at: "2026-11-21 17:56"

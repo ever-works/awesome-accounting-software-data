@@ -1,0 +1,11 @@
+name: "Bench"
+description: "Bench is an online bookkeeping service that pairs small businesses with a dedicated bookkeeping team and proprietary software."
+source_url: "https://bench.co/"
+category: "Bookkeeping Services"
+tags:
+  - "paid"
+  - "bookkeeping"
+  - "service"
+icon_url: "https://icons.duckduckgo.com/ip3/bench.co.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://bench.co/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"

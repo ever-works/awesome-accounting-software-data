@@ -1,0 +1,12 @@
+name: "Akaunting"
+description: "Akaunting is free, open-source accounting software for small businesses that can be self-hosted or used via cloud hosting."
+source_url: "https://akaunting.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/akaunting.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://akaunting.com/>\n- Repository: <https://github.com/akaunting/akaunting>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 17:56"

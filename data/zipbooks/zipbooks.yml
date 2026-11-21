@@ -1,0 +1,11 @@
+name: "ZipBooks"
+description: "ZipBooks provides cloud accounting and invoicing for small businesses with a free tier and paid upgrades for advanced features."
+source_url: "https://zipbooks.com/"
+category: "SMB Accounting"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/zipbooks.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://zipbooks.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"

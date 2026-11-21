@@ -1,0 +1,12 @@
+name: "Manager.io"
+description: "Manager is free desktop accounting software with optional cloud editions, designed for small businesses needing invoicing and inventory."
+source_url: "https://www.manager.io/"
+category: "SMB Accounting"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "desktop"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.manager.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.manager.io/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 17:56"
