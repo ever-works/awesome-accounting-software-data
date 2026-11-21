@@ -1,18 +1,22 @@
-company_name: "Awesome Accounting Software"
+company_name: Awesome Accounting Software
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome Accounting Software"
-initial_prompt: "A curated directory of accounting and bookkeeping software for small businesses, plus open-source and plain-text accounting. Include products such as QuickBooks, Xero, FreshBooks, Wave, Zoho Books, Sage, NetSuite, Odoo Accounting, Akaunting, GnuCash, Ledger, Bigcapital, plus other notable commercial and open-source options. Categories: SMB Accounting, Open-Source & Self-Hosted, Bookkeeping Services, Plain-Text Accounting, Accounting Practice Management, Regional & Tax-Specific. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-accounting-software-website"
-company_website: "https://accounting.ever.works"
+name: Awesome Accounting Software
+initial_prompt: "A curated directory of accounting and bookkeeping software for
+  small businesses, plus open-source and plain-text accounting. Include products
+  such as QuickBooks, Xero, FreshBooks, Wave, Zoho Books, Sage, NetSuite, Odoo
+  Accounting, Akaunting, GnuCash, Ledger, Bigcapital, plus other notable
+  commercial and open-source options. Categories: SMB Accounting, Open-Source &
+  Self-Hosted, Bookkeeping Services, Plain-Text Accounting, Accounting Practice
+  Management, Regional & Tax-Specific. For every item capture the official
+  website, a short factual description, pricing model (free, freemium, paid,
+  open source), deployment (cloud or self-hosted), key features and
+  integrations."
+website_repo: ever-works/awesome-accounting-software-website
+company_website: https://accounting.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +33,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
